@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vayne\\OneDrive\\Masa\u00FCst\u00FC\\tobeto-video-odev5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A22B68D-8306-4717-8B0E-616BF2BA0EAD}|tobeto-video-odev5.csproj|c:\\users\\vayne\\onedrive\\masa\u00FCst\u00FC\\tobeto-video-odev5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A22B68D-8306-4717-8B0E-616BF2BA0EAD}|tobeto-video-odev5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 134,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vayne\\OneDrive\\Masa\u00FCst\u00FC\\tobeto-video-odev5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vayne\\OneDrive\\Masa\u00FCst\u00FC\\tobeto-video-odev5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:08:49.414Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

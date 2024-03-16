@@ -1,0 +1,14 @@
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-video-odev5\bin\Debug\net8.0\tobeto-video-odev5.exe
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-video-odev5\bin\Debug\net8.0\tobeto-video-odev5.deps.json
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-video-odev5\bin\Debug\net8.0\tobeto-video-odev5.runtimeconfig.json
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-video-odev5\bin\Debug\net8.0\tobeto-video-odev5.dll
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-video-odev5\bin\Debug\net8.0\tobeto-video-odev5.pdb
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-video-odev5\obj\Debug\net8.0\tobeto-video-odev5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-video-odev5\obj\Debug\net8.0\tobeto-video-odev5.AssemblyInfoInputs.cache
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-video-odev5\obj\Debug\net8.0\tobeto-video-odev5.AssemblyInfo.cs
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-video-odev5\obj\Debug\net8.0\tobeto-video-odev5.csproj.CoreCompileInputs.cache
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-video-odev5\obj\Debug\net8.0\tobeto-video-odev5.dll
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-video-odev5\obj\Debug\net8.0\refint\tobeto-video-odev5.dll
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-video-odev5\obj\Debug\net8.0\tobeto-video-odev5.pdb
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-video-odev5\obj\Debug\net8.0\tobeto-video-odev5.genruntimeconfig.cache
+C:\Users\vayne\OneDrive\Masaüstü\tobeto-video-odev5\obj\Debug\net8.0\ref\tobeto-video-odev5.dll
